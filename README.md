@@ -1,1 +1,0 @@
-# Web-crawler-for-monthly-revenue-TW-stocks
